@@ -18,8 +18,8 @@ const int resolution = 8;
 
  
 // Network credentials
-const char* ssid     = "TC8717TDA_2GEXT";
-const char* password = "TC8717T9344DA";
+const char* ssid     = "wifissid";
+const char* password = "yourpassword";
  
 // Web server on port 80 (http)
 WiFiServer server(80);
